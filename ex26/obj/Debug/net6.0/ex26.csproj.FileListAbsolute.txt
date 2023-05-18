@@ -1,0 +1,15 @@
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.csproj.AssemblyReference.cache
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.AssemblyInfoInputs.cache
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.AssemblyInfo.cs
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.csproj.CoreCompileInputs.cache
+C:\Study\C#\four_practice\ex26\bin\Debug\net6.0\ex26.exe
+C:\Study\C#\four_practice\ex26\bin\Debug\net6.0\ex26.deps.json
+C:\Study\C#\four_practice\ex26\bin\Debug\net6.0\ex26.runtimeconfig.json
+C:\Study\C#\four_practice\ex26\bin\Debug\net6.0\ex26.dll
+C:\Study\C#\four_practice\ex26\bin\Debug\net6.0\ex26.pdb
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.dll
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\refint\ex26.dll
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.pdb
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ex26.genruntimeconfig.cache
+C:\Study\C#\four_practice\ex26\obj\Debug\net6.0\ref\ex26.dll

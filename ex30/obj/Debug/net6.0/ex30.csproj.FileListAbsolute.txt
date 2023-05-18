@@ -1,0 +1,15 @@
+C:\Study\C#\four_practice\ex30\bin\Debug\net6.0\ex30.exe
+C:\Study\C#\four_practice\ex30\bin\Debug\net6.0\ex30.deps.json
+C:\Study\C#\four_practice\ex30\bin\Debug\net6.0\ex30.runtimeconfig.json
+C:\Study\C#\four_practice\ex30\bin\Debug\net6.0\ex30.dll
+C:\Study\C#\four_practice\ex30\bin\Debug\net6.0\ex30.pdb
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.csproj.AssemblyReference.cache
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.AssemblyInfoInputs.cache
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.AssemblyInfo.cs
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.csproj.CoreCompileInputs.cache
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.dll
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\refint\ex30.dll
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.pdb
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ex30.genruntimeconfig.cache
+C:\Study\C#\four_practice\ex30\obj\Debug\net6.0\ref\ex30.dll

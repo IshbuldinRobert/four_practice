@@ -1,0 +1,15 @@
+C:\Study\C#\four_practice\method_SayMax\bin\Debug\net6.0\method_SayMax.exe
+C:\Study\C#\four_practice\method_SayMax\bin\Debug\net6.0\method_SayMax.deps.json
+C:\Study\C#\four_practice\method_SayMax\bin\Debug\net6.0\method_SayMax.runtimeconfig.json
+C:\Study\C#\four_practice\method_SayMax\bin\Debug\net6.0\method_SayMax.dll
+C:\Study\C#\four_practice\method_SayMax\bin\Debug\net6.0\method_SayMax.pdb
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.csproj.AssemblyReference.cache
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.AssemblyInfoInputs.cache
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.AssemblyInfo.cs
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.csproj.CoreCompileInputs.cache
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.dll
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\refint\method_SayMax.dll
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.pdb
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\method_SayMax.genruntimeconfig.cache
+C:\Study\C#\four_practice\method_SayMax\obj\Debug\net6.0\ref\method_SayMax.dll

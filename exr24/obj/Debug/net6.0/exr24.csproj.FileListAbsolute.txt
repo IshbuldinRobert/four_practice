@@ -1,0 +1,15 @@
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.csproj.AssemblyReference.cache
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.AssemblyInfoInputs.cache
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.AssemblyInfo.cs
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.csproj.CoreCompileInputs.cache
+C:\Study\C#\four_practice\exr24\bin\Debug\net6.0\exr24.exe
+C:\Study\C#\four_practice\exr24\bin\Debug\net6.0\exr24.deps.json
+C:\Study\C#\four_practice\exr24\bin\Debug\net6.0\exr24.runtimeconfig.json
+C:\Study\C#\four_practice\exr24\bin\Debug\net6.0\exr24.dll
+C:\Study\C#\four_practice\exr24\bin\Debug\net6.0\exr24.pdb
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.dll
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\refint\exr24.dll
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.pdb
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\exr24.genruntimeconfig.cache
+C:\Study\C#\four_practice\exr24\obj\Debug\net6.0\ref\exr24.dll
